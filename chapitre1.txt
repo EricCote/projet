@@ -3,6 +3,8 @@ Ceci est le premier chapitre...
 
 Avec un second paragraphe sans bogue....
 
+  Et un second bogue de réparé
+
 
 
 Ajouter un personnage nommé Eric
